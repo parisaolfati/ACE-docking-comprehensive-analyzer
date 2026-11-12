@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated Excel and image reports
+*.xlsx
+*.xls
+Analysis_Figures/
+
+# OS files
+.DS_Store
+Thumbs.db
